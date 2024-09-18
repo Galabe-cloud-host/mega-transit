@@ -1,0 +1,90 @@
+html{
+    scroll-behavior: smooth;
+}
+.btn{
+    background-color: red;
+    width: 120px;
+    height: 45px;
+    border-radius: 8px;
+    border: none;
+    background: pink;
+    color: white;
+    font-size: 14px;
+    margin-left: 2px;
+}
+.btn:hover
+{
+    background: lightblue;
+}
+.container{
+    width: 1200px;
+    height: 80px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    color: lightblue;
+    cursor: pointer;
+    margin-left: 20px;
+    font-size: 40px;
+}
+nav ul
+{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+nav ul li
+{
+    margin-right: 30px;
+    cursor: pointer;
+    color: lightblue;
+    font-weight: 400;
+    font-size: 20px;
+    
+}
+.active{
+    color: pink;
+    font-size: 46px; 
+    font-weight: 700;
+    margin-right: 30px;
+}
+nav ul li:hover
+{
+    color: lightblue;
+}
+.content{
+    width: 100%;
+}
+marquee{
+    width: 100%;
+}
+
+.gotopbtn{
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    background: lightblue;
+    bottom: 40px;
+    right: 50px;
+
+    text-decoration: none;
+    text-align: center;
+    line-height: 50px;
+    border-radius: 5px;
+}
+.container-fluid{
+    width: 160%;
+    height: 200vh;
+    background-color: black;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.content{
+    color: white;
+
+}

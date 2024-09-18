@@ -1,0 +1,240 @@
+img{
+    width: 100%;
+    display: block;
+}
+html{
+    scroll-behavior: smooth;
+}
+.btn{
+    background-color: red;
+    width: 120px;
+    height: 45px;
+    border-radius: 8px;
+    border: none;
+    background: pink;
+    color: white;
+    font-size: 400px;
+}
+.btn:hover
+{
+    background: lightblue;
+}
+.container-fluid{
+    width: 162%;
+    height: 80vh;
+    background-color: black;
+    
+}
+.container{
+    width: 1200px;
+    height: 80px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    color: lightblue;
+    cursor: pointer;
+    font-size: 40px;
+    font-weight: 700;
+}
+nav ul
+{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+nav ul li
+{
+    margin-right: 30px;
+    cursor: pointer;
+    color: lightblue;
+    font-weight: 400;
+    font-size: 20px;
+
+    
+}
+.active{
+    color: pink;
+    font-size: 49px;
+    font-weight: 700px;
+}
+nav ul li:hover
+{
+    color: lightblue;
+}
+
+body{
+    text-align: left;
+    width: 90%;
+}
+div{
+height: 100%;
+width: 160%;
+padding: 15px;
+color: black;
+font-family: 'Times New Roman', Times, serif;
+font-size: larger;
+}
+img{
+width: 5%;
+background-size: cover;
+background-position: center;
+}
+.boy{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+border-radius: 6%;    
+background-color: white;
+}
+button{
+border: none;
+border-radius: 10px;
+color: greenyellow;
+padding: 20px;
+border-color: green;
+box-shadow: 0px 0px 2px 2px rgb(0, 0, 0);
+}
+.pig{
+    background-color: black;
+    color: greenyellow;
+    padding: 15%;
+    width: 72.1%;
+    align-items: center;
+}
+.galab{
+    border: none;
+}
+form{
+    width: 160%;
+    text-align: left;
+}
+.laa{
+    text-align: left;
+    position: static;
+    color: white;
+}
+.fish{
+    border: none;
+}
+footer {
+    background-color: pink;
+    color: black;
+    text-align: center;
+    padding: 1em 0;
+    width: 1%
+    position: fixed;
+}
+table{
+    background:linear-gradient(pink,blue);
+    color: white;
+    color: white;
+    height: fit-content;
+    padding: 12px;
+    width: 3px;
+    
+}
+
+marquee{
+    background:linear-gradient(pink,blue);
+    color: rgb(3, 0, 5);
+    width: 163%;
+}
+
+.king{
+    background-color: lightblue;
+    padding: auto;
+    width: 100%;
+    font-size: 80px;
+}
+
+.red{
+    background-color: pink;
+    padding: auto;
+    width: 100%;
+    font-size: 80px;
+    text-align: center;
+}
+.ring{
+    background-color: black;
+    text-align: center;
+    width: 100%;
+    color: greenyellow;
+    font-size: 80px;
+}
+.icon{
+    background-color: lightblue;
+    width: 100%;
+}
+.btn{
+    background-color: red;
+    width: 120px;
+    height: 45px;
+    border-radius: 8px;
+    border: none;
+    background: pink;
+    color: white;
+    font-size: 14px;
+}
+.btn:hover
+{
+    background: lightblue;
+}
+.fox {
+    width: 1%;
+}
+.content{
+    width: 100%;
+}
+.boy:hover .king{
+    background-color: pink;
+    transition: 2.2s;
+}
+
+.pen:hover .red{
+    background-color: lightblue;
+    transition: 0.5s;
+    background-position: 0 100%;
+}
+.for{
+    border: none;
+    background-color: lightblue;
+    width: 70%;
+    color: black;
+    margin-top: 10%;
+    border-radius: 7%;
+}
+.omo{
+    width: 26%;
+    margin-top: 10%;
+    align-content: center;
+}
+.for:hover .leg{
+    background-color: pink;
+    color: black;
+    transition: 0.5s;
+    background-position: 0 100%;
+    border-radius: 7%;
+}
+
+.gotopbtn{
+    position: fixed;
+    width: 120px;
+    height: 120px;
+    background: lightblue;
+    bottom: 40px;
+    right: 50px;
+
+    text-decoration: none;
+    text-align: center;
+    line-height: 50px;
+    border-radius: 20px;
+    line-height: 120px;
+}
+.content{
+    color: white;
+    font-size: 80px;
+}

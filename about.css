@@ -1,0 +1,390 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+.edd{
+    color: red;
+    display: block;
+}
+.march{
+    opacity: 1px;
+}
+.march{
+    opacity: 5px;
+    padding: 100px;
+}
+footer {
+    color: ;
+    text-align: center;
+    padding: 1em 0;
+    width: 100%;
+    position: relative;
+}
+
+.tap{
+    padding: 1px;
+}
+table{
+    padding: 1px;
+    text-align: end;
+}    
+.ser{
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+.hov{
+    border-radius: 50%;
+    width: 35%;
+    height: 35%;
+}
+.ser:hover{
+    background-color: pink;
+}
+.opp{
+    text-align: center;
+    font-size: 60px;
+    background-color: pink;
+}
+.rat{
+    width: 40%;
+    height: 200px;
+    background-color: pink;
+    color: black;
+    font-size: 75px;
+    font: bold;
+    border-radius: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.rat:hover{
+    background-color: white;
+}
+.got{
+    color: black;
+}
+.ago{
+    width: 95%;
+    height: 130vh;
+    color: black;
+    padding: 2cm 1.5cm;
+    display: inline-block;
+    background: linear-gradient(pink 50%, lightblue 50%);
+    background-size: 100% 200%;
+    background-position: 0 2.5%;
+    border-radius: 5px;
+    box-shadow: 0 0 35px rgba(0, 0, 0, 0.12);
+    cursor: pointer;
+    transition: 1.5s;
+    border-radius: 25px;
+    background-color: rgb(158, 200, 248);
+}
+.btn{
+    background-color: red;
+    width: 120px;
+    height: 45px;
+    border-radius: 8px;
+    border: none;
+    background: pink;
+    color: white;
+    font-size: 14px;
+    margin-left: 2px;
+}
+h2{
+    font-size: 50px;
+}
+.btn:hover
+{
+    background: lightblue;
+}    
+.container-fluid{
+    border-radius: 5px;
+    width: 145%;
+    height: 194.9vh;
+    background-color: black;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 12px;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.container{
+    width: 1200px;
+    height: 80px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: black;
+}
+nav ul
+{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+nav ul li
+{
+    margin-right: 30px;
+    cursor: pointer;
+    color: lightblue;
+    font-weight: 400;
+    font-size: 20px;
+    
+}
+.active{
+    color: pink;
+    font-size: 49px;
+    font-weight: 700px;
+    margin-left: 11px;
+}
+nav ul li:hover
+{
+    color: lightblue;
+}
+.paw{
+    width: 100%;
+    height: 50vh;
+    background-color: pink;
+    text-align: center;
+    font-size: x-large;
+    padding-top: 30%;
+    border-radius: 25px;
+}
+
+.gotopbtn{
+    position: fixed;
+    width: 150px;
+    height: 150px;
+    background: lightblue;
+    bottom: 40px;
+    right: 50px;
+    border-radius: 25px;
+
+    text-decoration: none;
+    text-align: center;
+    line-height: 130px;
+
+}
+.meldrick{
+    height: 10000%;
+    width: 100%;
+    cursor: pointer;
+    text-align: center;
+}
+.meldrick .four:hover{
+    background-color: lightblue;
+    color: black;
+    border-radius: 5px;
+
+}
+.four{
+    height: 10%;
+    background-color: pink;
+    color: black;
+    border-radius: 5px;
+}
+.look{
+    border: 1px white;
+    width: 80%;
+    height: 100%;
+    padding: 2cm 1.5cm;
+    display: inline-block;
+    background: linear-gradient(#ffff 50%, pink 50%);
+    background-size: 100% 200%;
+    background-position: 0 2.5%;
+    border-radius: 5px;
+    box-shadow: 0 0 35px rgba(0, 0, 0, 0.12);
+    cursor: pointer;
+    transition: 1.5s;
+    border-radius: 25px;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+.he{
+    border-radius: 5px;
+    height: 103vh;
+}
+.uis{
+    width: 90%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 2px;
+}
+
+.yill{
+    width: 90%;
+    position: relative;
+    box-shadow: 0 10px 30px; 
+    border-radius: 25px;
+    display: inline;
+}
+
+.lil{
+    width: 100%;
+    height: 100%;
+    display: inline;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    background: linear-gradient(#ffff 50%, pink 50%);
+}
+
+.us{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 2px;
+}
+.yell{
+    width: 1400px;
+    height: 80%;
+    position: relative;
+    box-shadow: 0 10px 30px; 
+    border-radius: 25px;
+    display: inline;
+}
+.lol{
+    width: 100%;
+    height: 90%;
+    display: inline;
+    border-radius: 25px;
+    background: linear-gradient(#ffff 50%, pink 50%);
+}
+.to{
+    width: 100%;
+    height: 100%;
+    color: black;
+    font-size: 80%;
+    top: 0;
+    left: 0;
+    position: absolute;
+    background: rgba(0, 0, 0, 0.6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    opacity: 0;
+    transition: 0.6s;
+}
+.to:hover{
+    opacity: 0.5;
+    border-radius: 2%;
+    background-color: pink;
+}
+.gallery{
+    background-color: lightblue;
+    background: linear-gradient(#ffff 50%, lightblue 70%);
+}
+.content{
+    color: white;
+    margin-left: 30px;
+}
+h3{
+    font-size: 280px;
+}
+.air{
+    font-size: 35px;
+}
+.ion{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    filter: blur(4px);
+}
+.ron{
+    position: absolute;
+    padding: 10px;
+    color: white;
+    top: 25%;
+}
+.team{
+    border-radius: 15px;
+    width: 100%;
+    height: 100px;
+    background-color: white;
+    height: 100%;
+    width: 100%;
+}
+.ya{
+    padding-bottom: px;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: 1.5s;
+    width: 100%;
+}
+.tea{
+    width: 100%;
+    height: 100px;
+    background-color: white;
+    height: 100%;
+    width: 60%;
+    border-radius: 15px;
+    box-shadow: 0 0 35px rgba(0, 0, 0, 0.12);
+    cursor: pointer;
+    transition: 1.5s;
+}
+.cmtt{
+    width: 40%;
+    height: 10%;
+    padding-bottom: 20px;
+    background-color: lightblue;
+    border-radius: 100%;
+}
+.star{
+    background-color: pink;
+    width: 70%;
+    padding: 60px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 25px;
+    font-size: 1px;
+    word-spacing: 5px;
+}
+.sta{
+    width: 1%;
+}
+#tes{
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 70px;
+
+}
+.tcon{
+    background-color: pink;
+    width: 100%;
+    border-radius: 15px;
+    box-shadow: 2px 2px 70px rgba(0, 0, 0, 1);
+    transition: 2.5s;
+    letter-spacing: 1.5px;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    cursor: pointer;
+    margin: 10%;
+    display: block;
+}
+.profile{
+    cursor: pointer;
+    overflow: hidden;
+    margin-right: 10px;
+    width: 50%;
+    
+}    
+#isi{
+    background-color: lightblue;
+}
